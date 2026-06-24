@@ -37,7 +37,6 @@
 
 - **AppSheet** — no-code ilova yaratish platformasi
 - **Google Sheets** — ma'lumotlar bazasi
-- **Google Forms** — so'rovnoma uchun
 
 ---
 
@@ -45,7 +44,6 @@
 
 1. Quyidagi havola orqali ilovani oching:
    👉 [Restaran ilovasini ochish](https://www.appsheet.com/start/fe7f8959-0e57-402f-8204-b3673210e975?platform=desktop)
-
 2. **Menyu** bo'limidan ovqat tanlang
 3. **Stol** bo'limidan joy band qiling
 4. **Kelish vaqtini** belgilang
@@ -56,24 +54,14 @@
 
 ## 📸 Skrinshotlar
 
-> *Skrinshotlar qo'shiladi — ilovaning asosiy sahifalarini screenshot qilib `screenshots/` papkasiga joylashtiring*
+### 🍽️ Menyu
+![Menyu](menu.png)
 
-| Menyu | Stol band qilish | To'lov |
-|-------|-----------------|--------|
-| ![Menyu](screenshots/menu.png) | ![Stol](screenshots/table.png) | ![To'lov](screenshots/payment.png) |
+### 📋 Buyurtmalar
+![Buyurtmalar](orders.png)
 
----
-
-## 📂 Loyiha tuzilmasi
-
-```
-Restaran/
-├── README.md              ← Loyiha hujjati
-└── screenshots/           ← Ilova skrinshotlari
-    ├── menu.png
-    ├── table.png
-    └── payment.png
-```
+### 🪑 Stollar
+![Stollar](tables.png)
 
 ---
 
